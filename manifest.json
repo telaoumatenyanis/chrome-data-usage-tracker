@@ -1,0 +1,6 @@
+{
+    "name": "Chrome Data Usage Tracker",
+    "version": "1.0",
+    "description": "Track your data usage",
+    "manifest_version": 2
+  }
